@@ -1,0 +1,61 @@
+
+
+
+h1{
+margin-top: 10px;
+}
+
+.bg-dark, .bg-light{
+
+background-image: url(../images/distressed-overlay-texture-rusted-peeled-metal-grunge-background.jpg) !important;
+}
+
+
+
+.nav-link:hover, .nav-link:focus {
+    color: purple !important;
+}
+
+.nav-link{
+color: black !important
+}
+
+.bold{
+font-weight: bold;
+
+}
+.italic{
+font-style: italic;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .dashboard-menu{
+    margin-top: 60px;
+  }
+
+  .pagimenu{
+    margin-top: 30px;
+  }
+
+  .pagimenu-3{
+    margin-top: 20px;
+  }
+
+  .h2-2{
+    margin-top: 50px;
+  }
